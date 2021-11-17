@@ -46,3 +46,17 @@ body {
 .logout-button {
   margin-left: 5px;
 }
+.features {
+  ul {
+    margin-left: 0;
+    padding-left: 15px;
+  }
+}
+.no-left-padding {
+  padding-left: 0 !important;
+}
+
+.listing {
+  list-style: none;
+  padding-left: 0;
+}
